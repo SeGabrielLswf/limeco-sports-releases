@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.16",
-  "versionCode": 17,
+  "versionName": "1.0.17",
+  "versionCode": 18,
   "publishedAt": "2026-10-10",
-  "notes": "El tiempo de entrenamiento queda en menos de una semana, dos semanas, dos a cinco meses y de seis meses a más.",
+  "notes": "Android: si ya habías entrado, el menú abre de inmediato y la sesión se comprueba después.",
   "android": {
-    "versionName": "1.0.16",
-    "versionCode": 17,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.16/LimeCo-Admin-1.0.16.apk"
+    "versionName": "1.0.17",
+    "versionCode": 18,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.17/LimeCo-Admin-1.0.17.apk"
   },
   "windows": {
     "versionName": "1.0.16",
