@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
+  "versionName": "1.0.5",
+  "versionCode": 6,
   "publishedAt": "2026-10-10",
-  "notes": "Prueba OTA v1.0.2 — verifica campanita, descarga e instalación desde GitHub.",
+  "notes": "Corrección de inicio de sesión con Google en Android (Firebase en el WebView).",
   "android": {
-    "versionName": "1.0.4",
-    "versionCode": 5,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.4/LimeCo-Admin-1.0.4.apk"
+    "versionName": "1.0.5",
+    "versionCode": 6,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.5/LimeCo-Admin-1.0.5.apk"
   },
   "windows": {
-    "versionName": "1.0.4",
-    "versionCode": 5,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.4/LimeCo-Admin-Setup-1.0.4.exe"
+    "versionName": "1.0.5",
+    "versionCode": 6,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.5/LimeCo-Admin-Setup-1.0.5.exe"
   }
 }
