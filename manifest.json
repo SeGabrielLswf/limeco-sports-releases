@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.17",
-  "versionCode": 18,
+  "versionName": "1.0.18",
+  "versionCode": 19,
   "publishedAt": "2026-10-10",
-  "notes": "Android: si ya habías entrado, el menú abre de inmediato y la sesión se comprueba después.",
+  "notes": "Android: la pantalla principal abre con la sesión guardada. La comprobación ya no bloquea el inicio.",
   "android": {
-    "versionName": "1.0.17",
-    "versionCode": 18,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.17/LimeCo-Admin-1.0.17.apk"
+    "versionName": "1.0.18",
+    "versionCode": 19,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.18/LimeCo-Admin-1.0.18.apk"
   },
   "windows": {
     "versionName": "1.0.16",
