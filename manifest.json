@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.13",
-  "versionCode": 14,
+  "versionName": "1.0.14",
+  "versionCode": 15,
   "publishedAt": "2026-10-10",
-  "notes": "Windows: Google abre una ventana propia y deja la sesión iniciada.",
+  "notes": "Windows: la comprobación de actualizaciones ya no falla al consultar el manifiesto.",
   "android": {
     "versionName": "1.0.13",
     "versionCode": 14,
     "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.13/LimeCo-Admin-1.0.13.apk"
   },
   "windows": {
-    "versionName": "1.0.13",
-    "versionCode": 14,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.13/LimeCo-Admin-Setup-1.0.13.exe"
+    "versionName": "1.0.14",
+    "versionCode": 15,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.14/LimeCo-Admin-Setup-1.0.14.exe"
   }
 }
