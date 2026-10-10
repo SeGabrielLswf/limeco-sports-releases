@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.1",
-  "versionCode": 2,
+  "versionName": "1.0.2",
+  "versionCode": 3,
   "publishedAt": "2026-10-10",
-  "notes": "Versión 1.0 — admin LimeCo con nutrición, productos y actualizaciones automáticas.",
+  "notes": "Prueba OTA v1.0.2 — verifica campanita, descarga e instalación desde GitHub.",
   "android": {
-    "versionName": "1.0.1",
-    "versionCode": 2,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.1/LimeCo-Admin-1.0.1.apk"
+    "versionName": "1.0.2",
+    "versionCode": 3,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.2/LimeCo-Admin-1.0.2.apk"
   },
   "windows": {
-    "versionName": "1.0.1",
-    "versionCode": 2,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.1/LimeCo-Admin-Setup-1.0.1.exe"
+    "versionName": "1.0.2",
+    "versionCode": 3,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.2/LimeCo-Admin-Setup-1.0.2.exe"
   }
 }
