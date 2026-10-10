@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.8",
-  "versionCode": 9,
+  "versionName": "1.0.9",
+  "versionCode": 10,
   "publishedAt": "2026-10-10",
-  "notes": "Lista de clientes: ves todos los entrenadores (misma lectura que el inicio). Login Windows y permisos gaerbiet@gmail.com.",
+  "notes": "Lista de clientes vía servidor (listClientsForTrainer): Gabriel y Lácides ven todos los clientes.",
   "android": {
-    "versionName": "1.0.8",
-    "versionCode": 9,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.8/LimeCo-Admin-1.0.8.apk"
+    "versionName": "1.0.9",
+    "versionCode": 10,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.9/LimeCo-Admin-1.0.9.apk"
   },
   "windows": {
-    "versionName": "1.0.8",
-    "versionCode": 9,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.8/LimeCo-Admin-Setup-1.0.8.exe"
+    "versionName": "1.0.9",
+    "versionCode": 10,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.9/LimeCo-Admin-Setup-1.0.9.exe"
   }
 }
