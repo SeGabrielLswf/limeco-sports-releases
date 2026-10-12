@@ -1,12 +1,12 @@
 {
-  "versionName": "1.0.18",
-  "versionCode": 19,
-  "publishedAt": "2026-10-10",
-  "notes": "Android: la pantalla principal abre con la sesión guardada. La comprobación ya no bloquea el inicio.",
+  "versionName": "1.1.01",
+  "versionCode": 20,
+  "publishedAt": "2026-10-12",
+  "notes": "Entrenamiento en PDF, productos en un solo lugar, foto de Google guardada y datos del teléfono listos al abrir.",
   "android": {
-    "versionName": "1.0.18",
-    "versionCode": 19,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.0.18/LimeCo-Admin-1.0.18.apk"
+    "versionName": "1.1.01",
+    "versionCode": 20,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.01/LimeCo-Admin-1.1.01.apk"
   },
   "windows": {
     "versionName": "1.0.16",
