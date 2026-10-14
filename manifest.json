@@ -1,12 +1,12 @@
 {
-  "versionName": "1.1.02",
-  "versionCode": 21,
-  "publishedAt": "2026-10-13",
-  "notes": "Ajuste del superávit o déficit en Nutrición y clientes nuevos que ya no se pierden con señal lenta.",
+  "versionName": "1.1.03",
+  "versionCode": 22,
+  "publishedAt": "2026-10-14",
+  "notes": "Los clientes guardados en el celular se comparan con la nube y se suben los que falten.",
   "android": {
-    "versionName": "1.1.02",
-    "versionCode": 21,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.02/LimeCo-Admin-1.1.02.apk"
+    "versionName": "1.1.03",
+    "versionCode": 22,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.03/LimeCo-Admin-1.1.03.apk"
   },
   "windows": {
     "versionName": "1.0.16",
