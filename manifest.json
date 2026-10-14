@@ -1,12 +1,12 @@
 {
-  "versionName": "1.1.01",
-  "versionCode": 20,
-  "publishedAt": "2026-10-12",
-  "notes": "Entrenamiento en PDF, productos en un solo lugar, foto de Google guardada y datos del teléfono listos al abrir.",
+  "versionName": "1.1.02",
+  "versionCode": 21,
+  "publishedAt": "2026-10-13",
+  "notes": "Ajuste del superávit o déficit en Nutrición y clientes nuevos que ya no se pierden con señal lenta.",
   "android": {
-    "versionName": "1.1.01",
-    "versionCode": 20,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.01/LimeCo-Admin-1.1.01.apk"
+    "versionName": "1.1.02",
+    "versionCode": 21,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.02/LimeCo-Admin-1.1.02.apk"
   },
   "windows": {
     "versionName": "1.0.16",
