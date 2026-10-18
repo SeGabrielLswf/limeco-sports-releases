@@ -1,12 +1,12 @@
 {
-  "versionName": "1.1.10",
-  "versionCode": 29,
+  "versionName": "1.2.01",
+  "versionCode": 30,
   "publishedAt": "2026-10-18",
-  "notes": "El entrenamiento ya no se queda armando la semana. En el perfil, Nutrición muestra el recuadro Frente a un perfil excelente.",
+  "notes": "La tabla de entrenamiento queda guardada en el perfil. Ya no marca error mientras el PDF se dibuja.",
   "android": {
-    "versionName": "1.1.10",
-    "versionCode": 29,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.1.10/LimeCo-Admin-1.1.10.apk"
+    "versionName": "1.2.01",
+    "versionCode": 30,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.01/LimeCo-Admin-1.2.01.apk"
   },
   "windows": {
     "versionName": "1.0.16",
