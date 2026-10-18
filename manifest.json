@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.03",
-  "versionCode": 32,
+  "versionName": "1.2.04",
+  "versionCode": 33,
   "publishedAt": "2026-10-18",
-  "notes": "La tabla de entrenamiento se guarda en Firebase y el perfil la muestra.",
+  "notes": "En la tabla de entrenamiento se puede cambiar un ejercicio del listado y se actualizan series, repeticiones, descanso, RPE y RIR.",
   "android": {
-    "versionName": "1.2.03",
-    "versionCode": 32,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.03/LimeCo-Admin-1.2.03.apk"
+    "versionName": "1.2.04",
+    "versionCode": 33,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.04/LimeCo-Admin-1.2.04.apk"
   },
   "windows": {
     "versionName": "1.0.16",
