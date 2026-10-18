@@ -1,12 +1,12 @@
 {
-  "versionName": "1.2.02",
-  "versionCode": 31,
+  "versionName": "1.2.03",
+  "versionCode": 32,
   "publishedAt": "2026-10-18",
-  "notes": "En entrenamiento eliges de 2 a 7 días y, aparte, torso y pierna o empuje, tirón y pierna. La gráfica resume la frecuencia de cada músculo.",
+  "notes": "La tabla de entrenamiento se guarda en Firebase y el perfil la muestra.",
   "android": {
-    "versionName": "1.2.02",
-    "versionCode": 31,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.02/LimeCo-Admin-1.2.02.apk"
+    "versionName": "1.2.03",
+    "versionCode": 32,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.03/LimeCo-Admin-1.2.03.apk"
   },
   "windows": {
     "versionName": "1.0.16",
