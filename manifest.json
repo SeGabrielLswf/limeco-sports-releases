@@ -1,16 +1,16 @@
 {
-  "versionName": "1.2.08",
-  "versionCode": 37,
+  "versionName": "1.2.09",
+  "versionCode": 38,
   "publishedAt": "2026-10-26",
-  "notes": "El PDF de entrenamiento incluye la tabla de cada día, con el diseño de la guía. El inicio es un panel con clientes, activos, nuevos y progreso. Windows queda en esta misma versión.",
+  "notes": "El inicio resume el gimnasio y muestra la gráfica de algunos clientes, con lo que bajaron o subieron desde la primera medición.",
   "android": {
-    "versionName": "1.2.08",
-    "versionCode": 37,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.08/LimeCo-Admin-1.2.08.apk"
+    "versionName": "1.2.09",
+    "versionCode": 38,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.09/LimeCo-Admin-1.2.09.apk"
   },
   "windows": {
-    "versionName": "1.2.08",
-    "versionCode": 37,
-    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.08/LimeCo-Admin-Setup-1.2.08.exe"
+    "versionName": "1.2.09",
+    "versionCode": 38,
+    "downloadUrl": "https://github.com/SeGabrielLswf/limeco-sports-releases/releases/download/v1.2.09/LimeCo-Admin-Setup-1.2.09.exe"
   }
 }
